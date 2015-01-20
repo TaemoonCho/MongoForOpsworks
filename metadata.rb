@@ -1,4 +1,4 @@
-name        "mongo-web"
+name        "mongodb-for-web"
 description 'Cookbook for MongoDB Berkshelf based install'
 maintainer  "TaemoonJo"
 license     "Apache 2.0"
